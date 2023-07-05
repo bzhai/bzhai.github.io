@@ -23,11 +23,8 @@ I investigate topics in the fields of machine learning/deep learning and signal 
 <br/>
 <br/>
 
-<br/>
-
-
 News
 ---
-* **16 Feb 2023:** <span style="color:#B22222">(New)</span> One paper accepted to Ubicomp 2023 (core A*).
 * **21 May 2023:** <span style="color:#B22222">(New)</span> One paper accepted to Digital Health.
+* **16 Feb 2023:** <span style="color:#B22222">(New)</span> One paper accepted to Ubicomp 2023 (core A*).
 * 10 Dec 2022: <span style="color:#B22222">(New)</span> Temporal Neighborhood based Self-supervised Pre-training Model for Sleep Stages Classification accepted to ICBBT
