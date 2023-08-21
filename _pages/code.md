@@ -1,5 +1,5 @@
 ---
-#layout: archive
+layout: archive
 title: "Source Code"
 permalink: /code/
 author_profile: true
