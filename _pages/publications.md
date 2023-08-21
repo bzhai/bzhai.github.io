@@ -22,6 +22,7 @@ Shao, S., Guan, Y., **Zhai, B.**, Missier, P. and Plötz, T., 2023. ___ConvBoost
 
 **Zhai, B.**, Guan, Y., Catt, M. and Plötz, T., 2021. ___Ubi-SleepNet: Advanced Multimodal Fusion Techniques for Three-stage Sleep Classification Using Ubiquitous Sensing___. Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, IMWUT/Ubicomp 2023 **Core A*** [[PDF]] (https://dl.acm.org/doi/pdf/10.1145/3494961?casa_token=PI_mw-mkqX0AAAAA:g6zloJFnzlxVdcEwNgUEVCBGadKSVnWrUybBE_8a9IfDbSSHslDNdHaDn6IoKGliX66BqBDjxLIB)
 <br/><span style="color:red">*(accepted)*</span>
+
 -------
 2020
 **Zhai, B.**, Perez-Pozuelo, I., Clifton, E.A., Palotti, J. and Guan, Y., 2020. Making sense of sleep: Multimodal sleep stage classification in a large, diverse population using movement and cardiac sensing. Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, IMWUT/Ubicomp 2023 **Core A*** [[PDF]] (https://www.researchgate.net/profile/Joao-Palotti/publication/342185485_Making_Sense_of_Sleep_Multimodal_Sleep_Stage_Classification_in_a_Large_Diverse_Population_Using_Movement_and_Cardiac_Sensing/links/5efdce40a6fdcc4ca444ac7c/Making-Sense-of-Sleep-Multimodal-Sleep-Stage-Classification-in-a-Large-Diverse-Population-Using-Movement-and-Cardiac-Sensing.pdf)
