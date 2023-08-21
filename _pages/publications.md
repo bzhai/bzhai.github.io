@@ -20,7 +20,7 @@ Shao, S., Guan, Y., **Zhai, B.**, Missier, P. and Plötz, T., 2023. ___ConvBoost
 -------
 2021
 
-**Zhai, B.**, Guan, Y., Catt, M. and Plötz, T., 2021. ___Ubi-SleepNet: Advanced Multimodal Fusion Techniques for Three-stage Sleep Classification Using Ubiquitous Sensing___. Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, IMWUT/Ubicomp 2023 **Core A*** [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3494961?casa_token=PI_mw-mkqX0AAAAA:g6zloJFnzlxVdcEwNgUEVCBGadKSVnWrUybBE_8a9IfDbSSHslDNdHaDn6IoKGliX66BqBDjxLIB)
+**Zhai, B.**, Guan, Y., Catt, M. and Plötz, T., 2021. ___Ubi-SleepNet: Advanced Multimodal Fusion Techniques for Three-stage Sleep Classification Using Ubiquitous Sensing___. Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, IMWUT/Ubicomp 2023 **Core A***, [[PDF]]("https://dl.acm.org/doi/pdf/10.1145/3494961?casa_token=PI_mw-mkqX0AAAAA:g6zloJFnzlxVdcEwNgUEVCBGadKSVnWrUybBE_8a9IfDbSSHslDNdHaDn6IoKGliX66BqBDjxLIB")
 <br/><span style="color:red">*(accepted)*</span>
 
 -------
