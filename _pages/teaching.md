@@ -1,18 +1,9 @@
 ---
-#layout: archive
+layout: archive
 title: "Teaching"
 permalink: /teaching/
 author_profile: true
-google_site_verification : 
 ---
-
-_"Develop a passion for learning. If you do, you will never cease to grow."_ - Anthony J. D'Angelo
-
-Teaching
-------
-* **KF5042: Intelligent System**<br/>*Computer and Information Sciences, Northumbria*<br/>Module Organizer & Lecturer: undergraduate (Spring 2023)
-* **KF7006: Machine Learning**<br/>*Computer and Information Sciences, Northumbria*<br/>Module Organizer & Lecturer: Graduate (Winter 2023)
-
 
 {% include base_path %}
 
