@@ -4,13 +4,6 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+_<u>Note:</u> PDF is for personal use only. Copyrights are reserved by Publishers_
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+You can find my Google Scholar profile [here](https://scholar.google.com/citations?user=mswJ-JUAAAAJ&hl=en).
