@@ -3,7 +3,7 @@
 title: "Source Code"
 permalink: /code/
 author_profile: true
-google_site_verification 
+google_site_verification: snO26pf1BqNcJE4cSTSvtO_DdLF2svQ1z7JSFL99ZR8
 ---
 Source code of some of my works can be found below
 
