@@ -18,7 +18,7 @@ I received my PhD degree from the [School of Computing](https://www.ncl.ac.uk/co
 
 <br/>
 <br/>
-I investigate topics in machine learning/deep learning and signal processing. I am particularly interested in time series data analysis, e.g., biosignal analysis and healthcare applications. I also interested in AI for good. 
+I investigate topics in machine learning/deep learning and signal processing. I am particularly interested in time series data analysis, e.g., biosignal analysis and healthcare applications. I am also interested in AI for good, computer vision and audio/speech analysis.
 
 <br/>
 <br/>
