@@ -7,7 +7,7 @@ redirect_from: /bzhai/
 google_site_verification:
 ---
 
-<span style="color:#B22222">I am looking for students interested in doing a Ph.D. with me at the [Computer and Information Sciences](https://www.cis.Northumbria.ac.uk/), [Northumbria University](https://www.northumbria.ac.uk/) (UK). The research topics should focus on disentanglement representation learning in biomedical data. Please get in touch if you are interested.
+<span style="color:#B22222">I am looking for students interested in doing a PhD with me at the [Computer and Information Sciences](https://www.cis.Northumbria.ac.uk/), [Northumbria University](https://www.northumbria.ac.uk/) (UK). The research topics should focus on applied machine learning in biomedical data. Please get in touch if you are interested.
 
 <br/>
 <br/>
@@ -18,7 +18,7 @@ I received my PhD degree from the [School of Computing](https://www.ncl.ac.uk/co
 
 <br/>
 <br/>
-I investigate topics in the fields of machine learning/deep learning and signal processing. I am particularly interested in sleep analysis, biosignal analysis, and healthcare applications.
+I investigate topics in machine learning/deep learning and signal processing. I am particularly interested in time series data analysis, e.g., biosignal analysis and healthcare applications. I also interested in AI for good. 
 
 <br/>
 <br/>
