@@ -25,6 +25,7 @@ Shao, S., Guan, Y., **Zhai, B.**, Missier, P. and Plötz, T., 2023. ___ConvBoost
 
 -------
 2020
+
 **Zhai, B.**, Perez-Pozuelo, I., Clifton, E.A., Palotti, J. and Guan, Y., 2020. Making sense of sleep: Multimodal sleep stage classification in a large, diverse population using movement and cardiac sensing. Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, IMWUT/Ubicomp 2023 **Core A*** [[PDF]](https://www.researchgate.net/profile/Joao-Palotti/publication/342185485_Making_Sense_of_Sleep_Multimodal_Sleep_Stage_Classification_in_a_Large_Diverse_Population_Using_Movement_and_Cardiac_Sensing/links/5efdce40a6fdcc4ca444ac7c/Making-Sense-of-Sleep-Multimodal-Sleep-Stage-Classification-in-a-Large-Diverse-Population-Using-Movement-and-Cardiac-Sensing.pdf)
 <br/><span style="color:red">*(accepted)*</span>
 
