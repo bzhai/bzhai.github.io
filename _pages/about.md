@@ -7,7 +7,7 @@ redirect_from: /bzhai/
 google_site_verification:
 ---
 
-<span style="color:#B22222">I am looking for students interested in doing a PhD with me at the [Computer and Information Sciences](https://www.cis.Northumbria.ac.uk/), [Northumbria University](https://www.northumbria.ac.uk/) (UK). The research topics should focus on applied machine learning in biomedical data. Please get in touch if you are interested.
+<span style="color:#B22222">I am looking for students interested in doing a PhD with me at the [Computer and Information Sciences](https://www.cis.Northumbria.ac.uk/), [Northumbria University](https://www.northumbria.ac.uk/) (UK). The research topics should focus on applied machine learning and data science. Please get in touch if you are interested.
 
 <span style="color:#B22222">I am looking for potential PhD students interested in doing research with me at the [Computer and Information Sciences](https://www.northumbria.ac.uk/about-us/academic-departments/computer-and-information-sciences/), [Northumbria University](https://www.Northumbria.ac.uk/) (UK).  Please get in touch if you have any questions. Full scholarships are available for EU/UK and international students. Note to international students: some projects may only cover the UK tuition fees.</span>
 
