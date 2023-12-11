@@ -6,10 +6,10 @@ author_profile: true
 redirect_from: /bzhai/
 google_site_verification:
 ---
-
+<---!
 <span style="color:#B22222">I am looking for students interested in doing a PhD with me at the [Computer and Information Sciences](https://www.cis.Northumbria.ac.uk/), [Northumbria University](https://www.northumbria.ac.uk/) (UK). The research topics should focus on applied machine learning and data science. Please get in touch if you are interested.
-
-<span style="color:#B22222">I am looking for potential PhD students interested in doing research with me at the [Computer and Information Sciences](https://www.northumbria.ac.uk/about-us/academic-departments/computer-and-information-sciences/), [Northumbria University](https://www.Northumbria.ac.uk/) (UK).  Please get in touch if you have any questions. Full scholarships are available for EU/UK and international students. Note to international students: some projects may only cover the UK tuition fees.</span>
+---->
+<span style="color:#B22222">I am looking for potential PhD students interested in doing research with me at the [Computer and Information Sciences](https://www.northumbria.ac.uk/about-us/academic-departments/computer-and-information-sciences/), [Northumbria University](https://www.Northumbria.ac.uk/) (UK).  Please get in touch if you have any questions. The research topics should focus on applied machine learning and data science. Please get in touch if you are interested. Full scholarships are available for EU/UK and international students. Note to international students: some projects may only cover the UK tuition fees.</span>
 
 <br/>
 <span style="color:red">**Full Scholarship PhD opportunity**</span> OP2416 Machine Learning for Urban Climate: How to Cool Down Your City with Trees, working with [Wai Lok Woo](https://www.northumbria.ac.uk/about-us/our-staff/w/wai-lok-woo/), [Shidong Wang](https://www.ncl.ac.uk/computing/staff/profile/shidongwang.html), [Jiayi Jin](https://www.northumbria.ac.uk/about-us/our-staff/j/jiayi-jin/) and myself. This position is based in Northumbria University. More detail can be found [HERE](https://research.ncl.ac.uk/media/sites/researchwebsites/oneplanet/OP2416%20-%20Bing%20Zhai,%20UNN%20-%20Machine%20Learning%20for%20Urban%20Climate;%20How%20to%20Cool%20Down%20Your%20City%20with%20Trees.pdf). <span style="color:red">* The deadline of application is 11th January 2024, midnight*</span>
